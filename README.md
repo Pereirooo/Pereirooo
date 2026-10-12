@@ -1,4 +1,4 @@
-<h1 align="center">Iago Pereiro Vila</h1>
+<h1 align="center">Pereiro</h1>
 <h3 align="center">💻 Computer Science Student @ UDC · A Coruña, Spain</h3>
 
 <br>
